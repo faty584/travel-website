@@ -6,7 +6,7 @@ A visually engaging and responsive travel landing page designed for desktop view
 
 - [Overview](#overview)  
 - [Project Features](#project-features)  
-- Live demo https://travel-website-guw9.onrender.com
+- [Live Demo](#Live-Demo)
   - [Section 1: Header](#section-1-header)  
   - [Section 2: Destination Highlights](#section-2-destination-highlights)  
   - [Section 3: Why Choose Us](#section-3-why-choose-us)  
@@ -22,6 +22,8 @@ A visually engaging and responsive travel landing page designed for desktop view
 
 This project is a **responsive travel landing page** built with HTML and CSS. It’s tailored for desktop viewing and focuses on inspiring users with beautiful travel destinations while promoting the services of a global travel agency.
 
+## LiveDemo
+[Live Demo](https://travel-website-guw9.onrender.com)
 
 ## 🚀 Project Features
 
