@@ -5,7 +5,6 @@
 
 }
 body {
-    font-family: "gilda display";
 
     background-color: #f4f4f9;
 
@@ -15,6 +14,9 @@ body {
     margin: 0 auto;
     padding: 0 20px;
 }
+
+  
+  
 
 
 /* .header {
@@ -26,7 +28,7 @@ padding: 100pxn 20px;
 
 .travelnav {
     color: #25A59E;
-    margin-left: 25px;
+
 }
 /* .header h1 {
     font-size: 4em;
@@ -41,14 +43,12 @@ padding: 100pxn 20px;
 
 nav{
     display: flex;
-    flex-direction: row;
-    gap: 200px;
-    
+    padding: 20px;
+    justify-content: space-between;    
 }
 .menu {
     width: 20px;
     height: 30px;
-    margin-top: 20px;
 }
 .world {
     margin-left: 40px;
@@ -56,6 +56,7 @@ nav{
 .travelaround {
     font-size: 40px;
     margin-top: 90px;
+    text-align: center;
     
 }
 
@@ -90,12 +91,23 @@ nav{
 
 }
 
-    
+ .images{
+   width: 100%;
+   height:auto;
+   margin: 0;
+   background-position: center;
+   transform: rotate(180deg);
+ }
+ .imagetwo{
+   padding: 10px;
+   background-color: white;
+   margin:10px 0; 
+ }  
 .dest{
-    font-size: 25px;
+    text-align: center;
 }
 .destination-para{
-    font-size: 12px;
+    margin: 0 auto;
 }
 .cards{
     margin-left: 20px;
@@ -131,29 +143,25 @@ nav{
     color: #25A59E;
 }
 .why-chooseus-h{
-    font-size: 40px;
-    margin-left: 40px;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 25px;
 }
 #why-chooseus-para{
-    font-size: 12px;
-    margin-left: 40px;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 10px;
 
 }
-.tittle{
-    font-size: 20px;
-    margin-left: 15px;
-}
+
 .bestguide {
     border: 5px solid white;
     background-color: white;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
+    padding: 10px;
 }
-.best-guide-para{
-    font-size: 12px;
-    margin-left: 20px;
-}
+
 .more-details{
-    font-size: 15px;
     margin-left: 180px;
     color: #25A59E;
     
@@ -161,6 +169,11 @@ nav{
 .arrow {
     margin-bottom: -3px;
 }
+
+.cardT{
+    margin-bottom: 8px;
+}
+
 .listtop{
     width: 300px;
     height: 4px;
@@ -169,9 +182,10 @@ nav{
 .always{
     background-color: #25A59E;
     color: white;
+    margin-bottom: 20px;
+    padding: 10px;
 }
 .always-para{
-    font-size: 12px;
     margin-left: 10px;
     background-color: #25A59E;
 }
@@ -185,8 +199,13 @@ nav{
 }
 
 .alwaysready {
-    border: 3px solid white;
+    border-right: 3px solid white;
+    border-left: 3px solid white;
+    border-top: 3px solid #25A59E;
+    border-bottom: 3px solid white;
     background-color: white;
+    margin-bottom: 20px;
+    padding: 10px;
 }
 .more-detailstwo {
     margin-left: 170px;
@@ -204,6 +223,7 @@ nav{
 }
 .travel-para{
     font-size: 20px;
+    margin-bottom: 20px;
 }
 .shape {
     margin-top: 100px;
@@ -260,6 +280,18 @@ nav{
     text-decoration: none;
 color: black;
 }
+.gilda-display-regular {
+    font-family: "Gilda Display", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.urbanist {
+    font-family: "Urbanist", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
 
 
 

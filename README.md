@@ -114,3 +114,5 @@ GitHub: faty584
 
 ## License
 This project is licensed under the terms of the MIT License.
+## watch my loom video
+https://www.loom.com/share/0965886c8dd74fa6bb2de29dbba78c64
