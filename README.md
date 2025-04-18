@@ -25,7 +25,7 @@ This project is a **responsive travel landing page** built with HTML and CSS. It
 ## LiveDemo
 [Live Demo](https://travel-website-guw9.onrender.com)
 
-## 🚀 Project Features
+##  Project Features
 
 ### Section 1: Header
 
